@@ -31,7 +31,3 @@ This project helps in understanding React state management and dynamic UI update
 💡 Project Purpose
 Built for practice and improving React fundamentals.
 
-
----
-
-⭐ If you like this project, feel free to star the repository!
