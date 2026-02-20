@@ -4,6 +4,8 @@ A simple and interactive Color Switcher built using React.
 This project helps in understanding React state management and dynamic UI updates.
 
 ---
+## Demo Url( https://shivamchandel196.github.io/Color_Switcher/)
+
 
 🚀 Features
 - Change background color with one click
